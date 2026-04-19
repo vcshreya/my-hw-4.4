@@ -4,7 +4,7 @@ This is my repository for homework 4.4
 
 ## Overview
 
-Expand on those introductory sentences with a brief but informative description of your project's purpose and goals. This section should help visitors decide whether they should dig deeper into your repo/project.
+The point of this repo is to provide the QMD file that was done for hw 4.3 in order  to understand how Quarto works
 
 ### Interesting Insight (Optional)
 
