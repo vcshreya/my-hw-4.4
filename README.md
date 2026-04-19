@@ -25,4 +25,4 @@ Use this section to explain the structure of your repo. This should help visitor
 
 ## Authors
 
-Give information about who are the authors of the project and how people can get in touch if they have questions.
+The author of this repo is Shreya Chandanshive. With any questions, you can email me at svc6521@psu.edu
