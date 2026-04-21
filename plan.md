@@ -2,11 +2,20 @@
 
 ## The Project
 
-Goal(s): 
+Goal(s):
+- The goal for this project is to put everything we've learned throughout the course, to use. We will conduct data analysis as well as pose and answer our own research questions
 
 Needs:
+- A topic of choice
+- The dataset pertaining to our choice
+- R studio
+- GitHub
 
 Steps:
+1. Download the data set of choice
+2. Create a public repository in GitHub with the provided project template
+3. Share with group members
+4. Start going through checklist
 
 ## Setting up/maintaining my Repo
 
